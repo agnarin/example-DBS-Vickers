@@ -10,6 +10,8 @@
 ### สูตรการคำนวณยอดที่ถอนได้ (Available for Withdrawal)
 
     Available for Withdrawal = Settled Balance - Earmarked Balance
+## Source Code path
+CustomerAccount.java
 
 ## อธิบายผลลัพธ์ในแต่ละ Scenarios
 
