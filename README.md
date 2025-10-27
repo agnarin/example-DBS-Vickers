@@ -11,7 +11,7 @@
 
     Available for Withdrawal = Settled Balance - Earmarked Balance
 ## Source Code path
-CustomerAccount.java
+[CustomerAccount.java](https://github.com/agnarin/example-DBS-Vickers/blob/main/CustomerAccount.java)
 
 ## อธิบายผลลัพธ์ในแต่ละ Scenarios
 
